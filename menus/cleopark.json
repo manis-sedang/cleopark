@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle cleopark",
+        "command": "cleopark:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cleopark",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "cleopark:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

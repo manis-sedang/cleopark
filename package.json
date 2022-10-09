@@ -1,0 +1,18 @@
+{
+  "name": "cleopark",
+  "main": "./lib/cleopark",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "cleopark:toggle"
+  },
+  "repository": "https://github.com/manis-sedang/cleopark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
